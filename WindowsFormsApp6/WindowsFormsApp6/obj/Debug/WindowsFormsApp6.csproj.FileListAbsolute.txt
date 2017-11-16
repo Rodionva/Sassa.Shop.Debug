@@ -1,0 +1,15 @@
+C:\Users\Алексей\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.Cache
+C:\Users\Алексей\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.In.resources
+C:\Users\Алексей\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Admin.resources
+C:\Users\Алексей\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Kassa.resources
+C:\Users\Алексей\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Tovaroved.resources
+C:\Users\Алексей\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Items.resources
+C:\Users\Алексей\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.NewItem.resources
+C:\Users\Алексей\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\Kassa.Shop.Debug.exe.config
+C:\Users\Алексей\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\Kassa.Shop.Debug.exe
+C:\Users\Алексей\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\Kassa.Shop.Debug.pdb
+C:\Users\Алексей\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\Kassa.Properties.Resources.resources
+C:\Users\Алексей\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\Kassa.Shop.Debug.exe
+C:\Users\Алексей\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\Kassa.Shop.Debug.pdb
